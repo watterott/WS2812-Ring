@@ -1,7 +1,11 @@
 # WS2812-Ring
-Ring with 8/12/16/24/32/40/60 WS2812B intelligent RGB-LEDs.
+Rings with WS2812B intelligent RGB-LEDs.
 
 ![WS2812-Ring](https://github.com/watterott/WS2812-Ring/raw/master/hardware/WS2812-Ring_v10.jpg)
+
+* WS2812 RGB-LED with built-in controller with serial interface
+* 3 pin connection: VCC, GND, Data
+* Controllable with Adafruit NeoPixel Library
 
 
 ## Shop
@@ -13,12 +17,6 @@ Ring with 8/12/16/24/32/40/60 WS2812B intelligent RGB-LEDs.
 * [WS2812-Ring 40 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-40), [WS2812-Ring 40 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-40-Black-Edition)
 * [WS2812-Ring 60 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-60), [WS2812-Ring 60 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-60-Black-Edition)
 * [WS2812-Ring Set (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-Set), [WS2812-Ring Set (black)](http://www.watterott.com/en/WS2812-RGB-Ring-Set-Black-Edition)
-
-
-## Features
-* WS2812 RGB-LED with built-in controller with serial interface
-* 3 pin connection: VCC, GND, Data
-* Controllable with Adafruit NeoPixel Library
 
 
 ## Hardware
