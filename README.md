@@ -6,6 +6,7 @@ Rings with WS2812B intelligent RGB-LEDs.
 * WS2812 RGB-LED with built-in controller with serial interface
 * 3 pin connection: VCC, GND, Data
 * Controllable with Adafruit NeoPixel Library
+* Note: for protection connect a >= 300 ohm resistor between the LED data input and controller output pin.
 
 
 ## Shop
@@ -17,17 +18,6 @@ Rings with WS2812B intelligent RGB-LEDs.
 * [WS2812-Ring 40 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-40), [WS2812-Ring 40 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-40-Black-Edition)
 * [WS2812-Ring 60 (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-60), [WS2812-Ring 60 (black)](http://www.watterott.com/en/WS2812-RGB-Ring-60-Black-Edition)
 * [WS2812-Ring Set (white)](http://www.watterott.com/en/WS2812B-RGB-Ring-Set), [WS2812-Ring Set (black)](http://www.watterott.com/en/WS2812-RGB-Ring-Set-Black-Edition)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/WS2812-Ring/tree/master/hardware)
-* Datasheet: [WS2812B](https://github.com/watterott/WS2812-Breakout/raw/master/hardware/WS2812B.pdf)
-* Note: for protection connect a >= 300 ohm resistor between the LED data input and controller output pin.
-
-
-## Software
-* [Light weight WS2811/WS2812 Library](https://github.com/cpldcpu/light_ws2812)
-* [Adafruit NeoPixel Library](https://github.com/adafruit/Adafruit_NeoPixel)
 
 
 ## Projects
